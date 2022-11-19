@@ -7,12 +7,15 @@ Cleuterson F. Martins - 2022058
 #Codes used:
 
 #Build image:
+
 docker build -t cbwa-ca2-davison .
 
 #Run Image by port 8080:
+
 docker run -it --rm -p 8080:80 cbwa-ca2-davison
 
 #Browser: 
+
 http://localhost:8080
 
 #Example of a cloud platform:
