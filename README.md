@@ -36,11 +36,15 @@ Website: https://www.airtable.com
 Reference:
 
 https://www.airtable.com
+
 https://www.softwareadvice.com/database-management-systems/airtable-profile/
+
 Krzywiec, W. (2020). Build and run Angular application in a Docker container[Accessed 13 Nov. 2022].
 [online] Medium. Available at: https://wkrzywiec.medium.com/build-and-run-angular-application-in-a-docker-container-b65dbbc50be8
+
 TECHIE, J. (2020). Docker & Angular: Dockerizing your Angular Application | JavaTechie.[Accessed 13 Nov. 2022].
 [online] www.youtube.com. Available at: https://www.youtube.com/watch?v=J9uKG22lBwA
+
 CLOUD, F. (2017). Demo #31 - Aula sobre como criar a sua própria Imagem no Docker ! [Accessed 14 Nov. 2022].
 [online] www.youtube.com. Available at: https://www.youtube.com/watch?v=yhyc3-Namto 
 
