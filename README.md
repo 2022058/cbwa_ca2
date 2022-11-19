@@ -18,9 +18,7 @@ docker run -it --rm -p 8080:80
 
 http://localhost:8080
 
-# Example of a cloud platform:
-
-Airtable Software
+# Airtable Software
 
 Airtable is a cloud-based project management solution targeting small to midsize businesses as well as departments within larger companies and also provides special plans for nonprofit and education organizations.
 
