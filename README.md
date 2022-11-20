@@ -8,7 +8,7 @@ Cleuterson F. Martins - 2022058
 
 #Build image:
 
-docker build -t cbwa-ca2-davison .
+docker build -t cbwa_ca2-cfm .
 
 #Run Image by port 8080:
 
